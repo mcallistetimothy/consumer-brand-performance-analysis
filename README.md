@@ -46,5 +46,5 @@ India ($346,435)
 
 ## Project Status
 
-In Progress
+Completed
 
